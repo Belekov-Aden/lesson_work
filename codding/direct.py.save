@@ -1,0 +1,2 @@
+with open('/mnt/c/Users/Lenovo/Desktop/directories.txt', 'w') as f:
+	f.write('')
